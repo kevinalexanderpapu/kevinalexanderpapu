@@ -15,6 +15,12 @@
 
 - ⚡ Fun fact **I get more excited about breaking an app than building it**
 
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-alexander809/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://web-portofolio-kevin.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/Keviiinnn08/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
