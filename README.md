@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/kevin-alexander809/)
 
-- ⚡ Fun fact **I get more excited about breaking an app than building it 🎣**
+- ⚡ Fun fact **I get more excited about breaking an app than building it 🎣🎣**
 
 ### Connect with me:
 
@@ -19,13 +19,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://web-portofolio-kevin.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/Keviiinnn08/)
 
-<!-- SNAKE: hapus tanda komentar di bawah ini SETELAH workflow sukses (centang hijau)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevinalexanderpapu/kevinalexanderpapu/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevinalexanderpapu/kevinalexanderpapu/output/github-snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/kevinalexanderpapu/kevinalexanderpapu/output/github-snake.svg" />
 </picture>
--->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
