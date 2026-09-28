@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Alexander Papu</h1>
-<h3 align="center">A passionateI build and test software with security in mind | Mobile & endpoint security, secure web dev</h3>
+<h3 align="center">I build and test software with security in mind | Mobile & endpoint security, secure web dev</h3>
 
 - 🌱 I’m currently learning **Android security, EDR, XDR, Website**
 
